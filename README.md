@@ -8,9 +8,9 @@ This project addresses a  business need by building an end-to-end data pipeline 
 	•	Cloud Services: Azure Data Factory, Azure Data Lake Gen2, Azure Synapse Analytics
 	•	Processing & Transformation: Databricks
 	•	Visualization: Tableau
-<img width="1539" alt="Screenshot 2025-02-03 at 11 19 41 PM" src="https://github.com/user-attachments/assets/f6a67511-ab20-46e7-abb0-1829cd316ab9" />
 
 ## Data Pipeline Workflow
+<img width="1539" alt="Screenshot 2025-02-03 at 11 19 41 PM" src="https://github.com/user-attachments/assets/f6a67511-ab20-46e7-abb0-1829cd316ab9" />
 #### Configuration
 	•	Connect on-premises SQL database to Azure Data Factory
 	•	Copy data from SQL to Azure Data Lake
